@@ -1,0 +1,1 @@
+Simple WebRTC for chrome extensions that DOES NOT read your web (like other shady ones).

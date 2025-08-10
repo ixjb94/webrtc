@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "WebRTC Toggle",
+  "version": "1.0",
+  "description": "Simple extension to enable/disable WebRTC",
+  "permissions": [
+    "privacy",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "WebRTC Toggle"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

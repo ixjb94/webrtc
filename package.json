@@ -1,0 +1,12 @@
+{
+  "name": "@ixjb94/webrtc",
+  "version": "1.0.0",
+  "description": "Super-lightweight WebRTC",
+  "keywords": [],
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/ixjb94/webrtc.git"
+	},
+  "author": "IX JB",
+	"license": "MIT"
+}
